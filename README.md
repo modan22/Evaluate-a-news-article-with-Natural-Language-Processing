@@ -7,7 +7,7 @@ This project evaluates news articles using Natural Language Processing (NLP) wit
 
 1. Clone the repository:
     ```bash
-    git clone https://github.com/danadarneh/news-nlp.git
+    git clone https://github.com/modan22/news-nlp.git
     cd news-nlp
     ```
 
