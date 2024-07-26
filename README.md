@@ -21,6 +21,7 @@ This project evaluates news articles using Natural Language Processing (NLP) wit
     - Add your MeaningCloud API key to the `.env` file:
         ```plaintext
         API_KEY=your_meaningcloud_api_key
+        my key =fbc730edef2a91fc491533af15d6feab
         ```
 
 4. Run the development server:
